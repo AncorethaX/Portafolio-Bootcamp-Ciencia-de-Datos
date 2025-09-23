@@ -1,7 +1,7 @@
 # Portafolio Bootcamp Ciencia de Datos
 ## Portafolio Talento Digital
 
-[![Ximena](Images/imagen1.jpg)](https://youtu.be/64EgEWkWrM0)
+![Ximena](Images/imagen1.jpg)
  
 
 
@@ -28,6 +28,12 @@ Cada carpeta representa un módulo del programa, e incluye tanto el código como
 | 🧬 Módulo 7 | Aprendizaje No Supervisado | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M7) |
 | 🧠 Módulo 8 | Fundamentos de Deep Learning | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M8) |
 | 🌐 Módulo 9 | Fundamentos de Big Data | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M9) |
+
+---
+
+## 📽️ Video Explicativo
+
+[Ir al enlace](https://youtu.be/64EgEWkWrM0)
 
 ---
 
