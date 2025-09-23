@@ -31,9 +31,11 @@ Cada carpeta representa un módulo del programa, e incluye tanto el código como
 
 ---
 
-## 📽️ Video Explicativo
+## 🎬 Video Explicativo
 
-[Ir al enlace](https://youtu.be/64EgEWkWrM0)
+Presentación de los principales proyectos desarrollados en el Bootcamp de Ciencia de Datos. 
+
+👉🏻[📽️](https://youtu.be/64EgEWkWrM0)👈🏻
 
 ---
 
