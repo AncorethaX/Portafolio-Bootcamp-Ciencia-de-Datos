@@ -35,5 +35,5 @@ Cada carpeta representa un módulo del programa, e incluye tanto el código como
 
 Soy Ximena, estudiante del Bootcamp de Ciencia de Datos de Talento Digital con interés en resolver problemas reales mediante el uso de datos. Este portafolio es una muestra del camino recorrido y de mi evolución como profesional en formación.
 
-Si deseas contactarme o conocer más sobre mis proyectos, ¡no dudes en hacerlo!
+Si deseas contactarme o conocer más sobre mis proyectos, ¡no dudes en hacerlo! [👉🏻](https://ancorethax.github.io/Portafoliobasedatos/) 
 
