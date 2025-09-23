@@ -22,12 +22,12 @@ Cada carpeta representa un módulo del programa, e incluye tanto el código como
 |--------|-------------|--------|
 | 🧱 Módulo 2 | Fundamentos de Programación en Python | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M2) |
 | 🧹 Módulo 3 | Limpieza y Preparación de Datos | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M3) |
-| 📊 Módulo 4 | Análisis Exploratorio de Datos | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M4)) |
-| 📈 Módulo 5 | Inferencia Estadística | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M5)) |
-| 🤖 Módulo 6 | Aprendizaje Supervisado | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M6)) |
-| 🧬 Módulo 7 | Aprendizaje No Supervisado | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M7)) |
-| 🧠 Módulo 8 | Fundamentos de Deep Learning | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M8)) |
-| 🌐 Módulo 9 | Fundamentos de Big Data | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M9)) |
+| 📊 Módulo 4 | Análisis Exploratorio de Datos | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M4) |
+| 📈 Módulo 5 | Inferencia Estadística | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M5) |
+| 🤖 Módulo 6 | Aprendizaje Supervisado | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M6) |
+| 🧬 Módulo 7 | Aprendizaje No Supervisado | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M7) |
+| 🧠 Módulo 8 | Fundamentos de Deep Learning | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M8) |
+| 🌐 Módulo 9 | Fundamentos de Big Data | [Ir al módulo](https://github.com/AncorethaX/Portafoliobasedatos/tree/main/M9) |
 
 ---
 
