@@ -8,7 +8,7 @@
 
 # 📚 Portafolio – Bootcamp de Ciencia de Datos
 
-¡Bienvenido/a a mi portafolio!
+¡Bienvenido/a!
 
 Este repositorio reúne los proyectos y actividades desarrolladas durante el Bootcamp de Ciencia de Datos. A lo largo de los distintos módulos, he trabajado con herramientas y técnicas de programación, análisis de datos, estadística, machine learning, deep learning y Big Data.
 
